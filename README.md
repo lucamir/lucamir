@@ -5,7 +5,7 @@ I'm a Developer working in Catania, Italy.
 Something about me:
 
 🏢 I'm currently working at INGV-OE - National Institute of Geophysics and Volcanology - Etna Observatory<br>
-👨🏻‍💻 I use daily: C++, Python, PostgreSQL, JavaScript, React Native<br>
+👨🏻‍💻 I use daily: Python, PostgreSQL, JavaScript, React Native, C/C++<br>
 👀 I’m interested in: telegram bot, robotics, etc...<br>
 ⚡️ My hobbies are listening to music, watching anime/movies/tv series, gaming and do stuff with photoshop<br>
 📫 Reach me: twitter.com/lucamir<br>
